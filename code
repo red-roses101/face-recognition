@@ -1,7 +1,7 @@
-import face_recognition
+import face_recognition #pip install face-recognition and also don't forget smr to install dlib pip install dlib
 import os, sys
-import cv2
-import numpy as np
+import cv2    #pip install opencv-python
+import numpy as np 
 import math
 
 
